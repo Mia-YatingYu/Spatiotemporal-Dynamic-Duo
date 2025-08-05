@@ -115,11 +115,14 @@ python weight_average_tool.py
 # Citation
 
 ```
-@article{yu2024building,
-  title={Building a Multi-modal Spatiotemporal Expert for Zero-shot Action Recognition with CLIP},
+@inproceedings{yu2025building,
+  title={Building a multi-modal spatiotemporal expert for zero-shot action recognition with clip},
   author={Yu, Yating and Cao, Congqi and Zhang, Yueran and Lv, Qinyi and Min, Lingtong and Zhang, Yanning},
-  journal={arXiv preprint arXiv:2412.09895},
-  year={2024}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={9},
+  pages={9689--9697},
+  year={2025}
 }
 ```
 
